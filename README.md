@@ -85,11 +85,10 @@ Each standard record contains:
 ## Project Structure
 
 ```
-jazzcommon/
-├── jazzcommon.py     # CLI entrypoint and bundled standards dataset
-├── pyproject.toml    # Package metadata, entrypoint, tool config
-├── README.md         # This file
-└── .gitignore        # Python build artifacts and common noise
+jazzcommon.py     # CLI entrypoint and bundled standards dataset
+pyproject.toml    # Package metadata, entrypoint, tool config
+README.md         # This file
+.gitignore        # Python build artifacts and common noise
 ```
 
 - `jazzcommon.py` — flat single-module implementation: dataset, search, CLI
