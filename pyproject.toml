@@ -5,7 +5,7 @@ description = "Canonical jazz standards reference CLI and dataset"
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.11"
-authors = [{name = "Hermes Agent", email = "hermes@example.com"}]
+authors = [{name = "Eitan Ben-Ami 🇮🇱", email = "292682315+eitanben-ami@users.noreply.github.com"}]
 
 [project.scripts]
 jazzcommon = "jazzcommon:main"
